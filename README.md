@@ -33,5 +33,23 @@ Love the life you live. Live the life you love.
 ## Persons of Interest
 
 [George Washington][1]<br>
+<kbd>
+<img src="https://github.com/SK-CSdev/AboutMe/edit/main/georgewashington.jpg">
+  </kbd><br>
 [Akira Toriyama][2]<br>
+<kbd>
+<img src="https://github.com/SK-CSdev/AboutMe/edit/main/akiratoriyama.jpg">
+  </kbd><br>
 [Steve Jobs][3]<br>
+<kbd>
+<img src="https://github.com/SK-CSdev/AboutMe/edit/main/stevejobs.jpg" height="100px" width="200px">
+  </kbd><br>
+
+## Favorite Terms
+
+| Terms | Definitions | My Meaning
+|:-|:----:| ---:|
+| Abstract | Existing in thought or as an idea but not having a physical or concrete existence | Something complex | 
+| Creative | having a good imagination or original ideas | Something new and original |
+| Unique | being one of a kind | there is nothing else like it |
+
